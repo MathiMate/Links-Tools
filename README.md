@@ -2,6 +2,8 @@
 <br>
 <a href="https://www.youtube.com/watch?v=5vOj1yDzJwY&list=PL42UNLc8e48TK24-hBKfDMbZjQB8xFrOA&index=40&t=2271s">Angular entrevisa Gentelman</a>
 <br>
+<a href="https://www.interviewbit.com/angular-cheat-sheet/#angular-lifecycle-hooks">Angular CheetSheet</a>
+<br>
 <a href="https://stackblitz.com/">stackblitz.com/</a>
 <br>
 <a href="https://picocss.com/">picocss.com/</a>
