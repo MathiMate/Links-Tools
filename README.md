@@ -102,7 +102,7 @@
 <br>
 <a href="https://ciberninjas.com/el-camino-del-frontend-developer-por-mrcodedev/">ciberninjas.com/el-camino-del-frontend-developer-por-mrcodedev/</a>
 <br>
-<a href="https://jigsaw.w3.org/css-validator/#validate_by_input+with_options">jigsaw.w3.org/css-validator/#validate_by_input+with_options</a>
+<a href="https://jigsaw.w3.org/css-validator/#validate_by_input+with_options">jigsaw.w3.org/css-validator</a>
 <br>
 <a href="https://validator.w3.org/#validate_by_input">Validator.w3.org/</a>
 <br>
@@ -118,19 +118,19 @@
 <br>
 <a href="https://htmlcolorcodes.com/color-chart/">htmlcolorcodes.com/color-chart/</a>
 <br>
-<a href="https://9elements.github.io/fancy-border-radius/#76.100.0.24--.">9elements.github.io/fancy-border-radius/#76.100.0.24--.</a>
+<a href="https://9elements.github.io/fancy-border-radius/#76.100.0.24--.">github.io/fancy-border-radius</a>
 <br>
 <a href="https://colorswall.com/top/colors">colorswall.com/top/colors</a>
 <br>
-<a href="https://www.december.com/html/spec/color3.html">december.com/html/spec/color3.html</a>
+<a href="https://www.december.com/html/spec/color3.html">december-color.com</a>
 <br>
 <a href="https://mockitt.wondershare.com/">mockitt.wondershare.com/</a>
 <br>
-<a href="https://material.io/design/color/the-color-system.html#color-theme-creation">material.io/design/color/the-color-system.html#color-theme-creation</a>
+<a href="https://material.io/design/color/the-color-system.html#color-theme-creation">material.io</a>
 <br>
-<a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E">youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E</a>
+<a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E">Materialize CSS - Tutorial Español</a>
 <br>
-<a href="https://www.youtube.com/watch?v=ArTVfdHOB-M">youtube.com/watch?v=ArTVfdHOB-M</a>
+<a href="https://www.youtube.com/watch?v=ArTVfdHOB-M">Magic Navigation Menu Indicator</a>
 <br>
 <a href="https://www.img2go.com/">img2go.com/</a>
 <br>
