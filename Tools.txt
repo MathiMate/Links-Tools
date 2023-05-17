@@ -1,6 +1,6 @@
-https://squoosh.app/
+<a href="https://squoosh.app/"></a>
 
-https://stackblitz.com/
+<a href="https://stackblitz.com/"></a>
 
 https://picocss.com/
 
