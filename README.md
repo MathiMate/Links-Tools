@@ -1,91 +1,164 @@
-# Links-Tools
-Repo para herramientas de desarrollo de software
-
-Aquí tienes los elementos `<a>` con el nombre de la URL:
-
-<a href="https://squoosh.app/">https://squoosh.app/</a>
-<a href="https://stackblitz.com/">https://stackblitz.com/</a>
-<a href="https://picocss.com/">https://picocss.com/</a>
-<a href="https://jsoncrack.com/">https://jsoncrack.com/</a>
-<a href="https://svgl.vercel.app/">https://svgl.vercel.app/</a>
-<a href="https://maketext.io/">https://maketext.io/</a>
-<a href="https://jakearchibald.github.io/svgomg/">https://jakearchibald.github.io/svgomg/</a>
-<a href="https://threejs.org/">https://threejs.org/</a>
-<a href="https://easings.net/">https://easings.net/</a>
-<a href="https://boxicons.com/?query=a">https://boxicons.com/?query=a</a>
-<a href="https://www.flaticon.es/iconos-gratis/fosforo">https://www.flaticon.es/iconos-gratis/fosforo</a>
-<a href="https://www.flaticon.es/">https://www.flaticon.es/</a>
-<a href="https://www.systemuicons.com/">https://www.systemuicons.com/</a>
-<a href="https://heroicons.com/">https://heroicons.com/</a>
-<a href="https://iconoir.com/">https://iconoir.com/</a>
-<a href="https://keyframes.app/">https://keyframes.app/</a>
-<a href="https://react-svgr.com/">https://react-svgr.com/</a>
-<a href="https://component-party.dev/#update-state">https://component-party.dev/#update-state</a>
-<a href="https://www.reactjs.wiki/">https://www.reactjs.wiki/</a>
-<a href="https://github.com/midudev/preguntas-entrevista-react">https://github.com/midudev/preguntas-entrevista-react</a>
-<a href="https://roadmap.sh/">https://roadmap.sh/</a>
-<a href="https://htmlcheatsheet.com/js/">https://htmlcheatsheet.com/js/</a>
-<a href="https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules">https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules</a>
-<a href="https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/">https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/</a>
-<a href="https://mantine.dev/">https://mantine.dev/</a>
-<a href="https://risingstars.js.org/2022/en">https://risingstars.js.org/2022/en</a>
-<a href="https://auto-animate.formkit.com/">https://auto-animate.formkit.com/</a>
-<a href="https://www.youtube.com/watch?v=P7t13SGytRk&t=22s">https://www.youtube.com/watch?v=P7t13SGytRk&t=22s</a>
-<a href="https://supabase.com/">https://supabase.com/</a>
-<a href="https://roughnotation.com/">https://roughnotation.com/</a>
-<a href="https://www.npmjs.com/package/ora">https://www.npmjs.com/package/ora</a>
-
-
-<a href="https://caninclude.glitch.me/">https://caninclude.glitch.me/</a>
-<a href="https://caniuse.com/">https://caniuse.com/</a>
-<a href="https://www.skeleton.dev/">https://www.skeleton.dev/</a>
-<a href="https://chakra-ui.com/">https://chakra-ui.com/</a>
-<a href="https://flowbite.com/">https://flowbite.com/</a>
-<a href="https://m3.material.io/">https://m3.material.io/</a>
-<a href="https://www.toools.design/">https://www.toools.design/</a>
-<a href="https://sonner.emilkowal.ski/">https://sonner.emilkowal.ski/</a>
-<a href="https://www.cattocss.com/">https://www.cattocss.com/</a>
-<a href="https://swr.vercel.app/es-ES">https://swr.vercel.app/es-ES</a>
-<a href="https://sui-components.vercel.app/workbench/atom/button/demo">https://sui-components.vercel.app/workbench/atom/button/demo</a>
-<a href="https://ionic.io/ionicons">https://ionic.io/ionicons</a>
-<a href="https://fontawesome.com/v5.15/icons?d=gallery&p=2">https://fontawesome.com/v5.15/icons?d=gallery&p=2</a>
-<a href="https://www.favicon.cc/">https://www.favicon.cc/</a>
-<a href="https://www.blobmaker.app/">https://www.blobmaker.app/</a>
-<a href="https://instantsprite.com/">https://instantsprite.com/</a>
-<a href="https://www.freepik.com/">https://www.freepik.com/</a>
-<a href="https://yaroslavweb.github.io/Neon-Generator/">https://yaroslavweb.github.io/Neon-Generator/</a>
-<a href="https://mycolor.space/">https://mycolor.space/</a>
-<a href="https://mockitt.wondershare.com/blog.html?utm_source=youtube&utm_medium=influencer&utm_campaign=md-pq&utm_term=soydalto-blog&utm_content=video_md_md_en_20108400_2021-09-03">https://mockitt.wondershare.com/blog.html?utm_source=youtube&utm_medium=influencer&utm_campaign=md-pq&utm_term=soydalto-blog&utm_content=video_md_md_en_20108400_2021-09-03</a>
-<a href="https://ciberninjas.com/el-camino-del-frontend-developer-por-mrcodedev/">https://ciberninjas.com/el-camino-del-frontend-developer-por-mrcodedev/</a>
-<a href="https://jigsaw.w3.org/css-validator/#validate_by_input+with_options">https://jigsaw.w3.org/css-validator/#validate_by_input+with_options</a>
-<a href="https://validator.w3.org/#validate_by_input">https://validator.w3.org/#validate_by_input</a>
-<a href="https://cssgradient.io/">https://cssgradient.io/</a>
-<a href="https://codepen.io/trending">https://codepen.io/trending</a>
-<a href="https://flexboxfroggy.com/#es">https://flexboxfroggy.com/#es</a>
-<a href="https://www.wallpaperbetter.com/es">https://www.wallpaperbetter.com/es</a>
-<a href="https://anim
-
-ista.net/play/background">https://animista.net/play/background</a>
-<a href="https://htmlcolorcodes.com/color-chart/">https://htmlcolorcodes.com/color-chart/</a>
-<a href="https://9elements.github.io/fancy-border-radius/#76.100.0.24--.">https://9elements.github.io/fancy-border-radius/#76.100.0.24--.</a>
-<a href="https://colorswall.com/top/colors">https://colorswall.com/top/colors</a>
-<a href="https://www.december.com/html/spec/color3.html">https://www.december.com/html/spec/color3.html</a>
-<a href="https://mockitt.wondershare.com/">https://mockitt.wondershare.com/</a>
-<a href="https://material.io/design/color/the-color-system.html#color-theme-creation">https://material.io/design/color/the-color-system.html#color-theme-creation</a>
-<a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E">https://www.youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E</a>
-<a href="https://www.youtube.com/watch?v=ArTVfdHOB-M">https://www.youtube.com/watch?v=ArTVfdHOB-M</a>
-<a href="https://www.img2go.com/">https://www.img2go.com/</a>
-<a href="https://imagecompressor.com/">https://imagecompressor.com/</a>
-<a href="https://icons8.com/animated-icons">https://icons8.com/animated-icons</a>
-<a href="https://www.fontspace.com/">https://www.fontspace.com/</a>
-<a href="https://mui.com/components/icons/">https://mui.com/components/icons/</a>
-<a href="https://zeplin.io/">https://zeplin.io/</a>
-<a href="https://www.awwwards.com/">https://www.awwwards.com/</a>
-<a href="https://dribbble.com/">https://dribbble.com/</a>
-<a href="https://www.webdesign-inspiration.com/">https://www.webdesign-inspiration.com/</a>
-<a href="https://www.colorzilla.com/">https://www.colorzilla.com/</a>
-<a href="https://www.colorzilla.com/gradient-editor/">https://www.colorzilla.com/gradient-editor/</a>
-<a href="https://tinypng.com/">https://tinypng.com/</a>
-<a href="https://minifycode.com/">https://minifycode.com/</a>
-<a href="https://transform.tools/html-to-jsx">https://transform.tools/html-to-jsx</a>
-<a href="https://bennettfeely.com/clippy/">https://bennettfeely.com/clippy/</a>
+<a href="https://squoosh.app/">squoosh.app/</a>
+<br>
+<a href="https://stackblitz.com/">stackblitz.com/</a>
+<br>
+<a href="https://picocss.com/">picocss.com/</a>
+<br>
+<a href="https://jsoncrack.com/">jsoncrack.com/</a>
+<br>
+<a href="https://svgl.vercel.app/">svgl.vercel.app/</a>
+<br>
+<a href="https://maketext.io/">maketext.io/</a>
+<br>
+<a href="https://jakearchibald.github.io/svgomg/">jakearchibald.github.io/svgomg/</a>
+<br>
+<a href="https://threejs.org/">threejs.org/</a>
+<br>
+<a href="https://easings.net/">easings.net/</a>
+<br>
+<a href="https://boxicons.com/?query=a">boxicons.com/?query=a</a>
+<br>
+<a href="https://www.flaticon.es/iconos-gratis/fosforo">flaticon.es/iconos-gratis/fosforo</a>
+<br>
+<a href="https://www.flaticon.es/">flaticon.es/</a>
+<br>
+<a href="https://www.systemuicons.com/">systemuicons.com/</a>
+<br>
+<a href="https://heroicons.com/">heroicons.com/</a>
+<br>
+<a href="https://iconoir.com/">iconoir.com/</a>
+<br>
+<a href="https://keyframes.app/">keyframes.app/</a>
+<br>
+<a href="https://react-svgr.com/">react-svgr.com/</a>
+<br>
+<a href="https://component-party.dev/#update-state">component-party.dev/#update-state</a>
+<br>
+<a href="https://www.reactjs.wiki/">reactjs.wiki/</a>
+<br>
+<a href="https://github.com/midudev/preguntas-entrevista-react">github.com/midudev/preguntas-entrevista-react</a>
+<br>
+<a href="https://roadmap.sh/">roadmap.sh/</a>
+<br>
+<a href="https://htmlcheatsheet.com/js/">htmlcheatsheet.com/js/</a>
+<br>
+<a href="https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules">adhamdannaway.com/blog/ui-design/16-ui-design-rules</a>
+<br>
+<a href="https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/">2022.stateofjs.com/en-US/libraries/front-end-frameworks/</a>
+<br>
+<a href="https://mantine.dev/">mantine.dev/</a>
+<br>
+<a href="https://risingstars.js.org/2022/en">risingstars.js.org/2022/en</a>
+<br>
+<a href="https://auto-animate.formkit.com/">auto-animate.formkit.com/</a>
+<br>
+<a href="https://www.youtube.com/watch?v=P7t13SGytRk&t=22s">Netflix Landing Page Clone JS</a>
+<br>
+<a href="https://supabase.com/">supabase.com/</a>
+<br>
+<a href="https://roughnotation.com/">roughnotation.com/</a>
+<br>
+<a href="https://www.npmjs.com/package/ora">npmjs.com/package/ora</a>
+<br>
+<a href="https://caninclude.glitch.me/">caninclude.glitch.me/</a>
+<br>
+<a href="https://caniuse.com/">caniuse.com/</a>
+<br>
+<a href="https://www.skeleton.dev/">skeleton.dev/</a>
+<br>
+<a href="https://chakra-ui.com/">chakra-ui.com/</a>
+<br>
+<a href="https://flowbite.com/">flowbite.com/</a>
+<br>
+<a href="https://m3.material.io/">m3.material.io/</a>
+<br>
+<a href="https://www.toools.design/">toools.design/</a>
+<br>
+<a href="https://sonner.emilkowal.ski/">sonner.emilkowal.ski/</a>
+<br>
+<a href="https://www.cattocss.com/">cattocss.com/</a>
+<br>
+<a href="https://swr.vercel.app/es-ES">swr.vercel.app/es-ES</a>
+<br>
+<a href="https://sui-components.vercel.app/workbench/atom/button/demo">sui-components.vercel.app/workbench/atom/button/demo</a>
+<br>
+<a href="https://ionic.io/ionicons">ionic.io/ionicons</a>
+<br>
+<a href="https://fontawesome.com/v5.15/icons?d=gallery&p=2">Fontawesome.com</a>
+<br>
+<a href="https://www.favicon.cc/">favicon.cc/</a>
+<br>
+<a href="https://www.blobmaker.app/">blobmaker.app/</a>
+<br>
+<a href="https://instantsprite.com/">instantsprite.com/</a>
+<br>
+<a href="https://www.freepik.com/">freepik.com/</a>
+<br>
+<a href="https://yaroslavweb.github.io/Neon-Generator/">Neon-Generator/</a>
+<br>
+<a href="https://mycolor.space/">mycolor.space/</a>
+<br>
+<a href="https://mockitt.wondershare.com/blog.html?utm_source=youtube&utm_medium=influencer&utm_campaign=md-pq&utm_term=soydalto-blog&utm_content=video_md_md_en_20108400_2021-09-03">mockitt.wondershare.com</a>
+<br>
+<a href="https://ciberninjas.com/el-camino-del-frontend-developer-por-mrcodedev/">ciberninjas.com/el-camino-del-frontend-developer-por-mrcodedev/</a>
+<br>
+<a href="https://jigsaw.w3.org/css-validator/#validate_by_input+with_options">jigsaw.w3.org/css-validator/#validate_by_input+with_options</a>
+<br>
+<a href="https://validator.w3.org/#validate_by_input">Validator.w3.org/</a>
+<br>
+<a href="https://cssgradient.io/">cssgradient.io/</a>
+<br>
+<a href="https://codepen.io/trending">codepen.io/trending</a>
+<br>
+<a href="https://flexboxfroggy.com/#es">flexboxfroggy.com/#es</a>
+<br>
+<a href="https://www.wallpaperbetter.com/es">wallpaperbetter.com/es</a>
+<br>
+<a href="https://animista.net/play/background">animista.net/play/background</a>
+<br>
+<a href="https://htmlcolorcodes.com/color-chart/">htmlcolorcodes.com/color-chart/</a>
+<br>
+<a href="https://9elements.github.io/fancy-border-radius/#76.100.0.24--.">9elements.github.io/fancy-border-radius/#76.100.0.24--.</a>
+<br>
+<a href="https://colorswall.com/top/colors">colorswall.com/top/colors</a>
+<br>
+<a href="https://www.december.com/html/spec/color3.html">december.com/html/spec/color3.html</a>
+<br>
+<a href="https://mockitt.wondershare.com/">mockitt.wondershare.com/</a>
+<br>
+<a href="https://material.io/design/color/the-color-system.html#color-theme-creation">material.io/design/color/the-color-system.html#color-theme-creation</a>
+<br>
+<a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E">youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E</a>
+<br>
+<a href="https://www.youtube.com/watch?v=ArTVfdHOB-M">youtube.com/watch?v=ArTVfdHOB-M</a>
+<br>
+<a href="https://www.img2go.com/">img2go.com/</a>
+<br>
+<a href="https://imagecompressor.com/">imagecompressor.com/</a>
+<br>
+<a href="https://icons8.com/animated-icons">icons8.com/animated-icons</a>
+<br>
+<a href="https://www.fontspace.com/">fontspace.com/</a>
+<br>
+<a href="https://mui.com/components/icons/">mui.com/components/icons/</a>
+<br>
+<a href="https://zeplin.io/">zeplin.io/</a>
+<br>
+<a href="https://www.awwwards.com/">awwwards.com/</a>
+<br>
+<a href="https://dribbble.com/">dribbble.com/</a>
+<br>
+<a href="https://www.webdesign-inspiration.com/">webdesign-inspiration.com/</a>
+<br>
+<a href="https://www.colorzilla.com/">colorzilla.com/</a>
+<br>
+<a href="https://www.colorzilla.com/gradient-editor/">colorzilla.com/gradient-editor/</a>
+<br>
+<a href="https://tinypng.com/">tinypng.com/</a>
+<br>
+<a href="https://minifycode.com/">minifycode.com/</a>
+<br>
+<a href="https://transform.tools/html-to-jsx">transform.tools/html-to-jsx</a>
+<br>
+<a href="https://bennettfeely.com/clippy/">bennettfeely.com/clippy/</a>
+<br>
