@@ -40,7 +40,9 @@
 <br>
 <a href="https://www.reactjs.wiki/">reactjs.wiki/</a>
 <br>
-<a href="https://github.com/midudev/preguntas-entrevista-react">github.com/midudev/preguntas-entrevista-react</a>
+<a href="https://github.com/midudev/preguntas-entrevista-react">Midudev Entrevista React</a>
+<br>
+<a href="https://github.com/midudev/aprendiendo-react">Midudev Aprendiendo React</a>
 <br>
 <a href="https://roadmap.sh/">roadmap.sh/</a>
 <br>
