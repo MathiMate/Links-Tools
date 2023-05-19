@@ -20,6 +20,10 @@
 <br>
 <a href="https://jakearchibald.github.io/svgomg/">jakearchibald.github.io/svgomg/</a>
 <br>
+<a href="https://rauno.me/craft">Rauno Desing</a>
+<br>
+<a href="https://dribbble.com/">Dribbble</a>
+<br>
 <a href="https://threejs.org/">threejs.org/</a>
 <br>
 <a href="https://easings.net/">easings.net/</a>
