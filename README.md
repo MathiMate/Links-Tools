@@ -6,6 +6,8 @@
 <br>
 <a href="https://www.interviewbit.com/angular-cheat-sheet/#angular-lifecycle-hooks">Angular CheetSheet</a>
 <br>
+<a href="https://refactoring.guru/es/design-patterns">Gurú Desing Patterns</a>
+<br>
 <a href="https://www.youtube.com/watch?v=HDFNjDKKO6A">Testing en Cypress</a>
 <br>
 <a href="https://stackblitz.com/">stackblitz.com/</a>
