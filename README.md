@@ -1,3 +1,4 @@
+Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <a href="https://squoosh.app/">squoosh.app/</a>
 <br>
 <a href="https://www.3dtransformer.com/">3d Transformer</a>
