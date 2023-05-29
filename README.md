@@ -40,6 +40,10 @@ Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
 <a href="https://www.systemuicons.com/">systemuicons.com/</a>
 <br>
+<a href="https://codesignal.com/">Codesignal</a>
+<br>
+<a href="https://leetcode.com/problemset/all/">Leetcode</a>
+<br>
 <a href="https://heroicons.com/">heroicons.com/</a>
 <br>
 <a href="https://iconoir.com/">iconoir.com/</a>
