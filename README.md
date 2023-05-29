@@ -1,5 +1,11 @@
 Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
+<a href="https://validator.w3.org/">W3C Validator</a>
+<br>
+<a href="https://www.w3.org/">W3C</a>
+<br>
+<a href="https://beta.w3.org/">W3C New Beta</a>
+<br>
 <a href="https://squoosh.app/">squoosh.app/</a>
 <br>
 <a href="https://www.3dtransformer.com/">3d Transformer</a>
