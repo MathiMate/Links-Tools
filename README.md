@@ -2,6 +2,10 @@ Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
 <a href="https://validator.w3.org/">W3C Validator</a>
 <br>
+<a href="https://codi.link/%7C%7C">Codi Link</a>
+<br>
+<a href="https://github.com/postcss/postcss#usage">Post CSS</a>
+<br>
 <a href="https://ls-lint.org/">LS Lint</a>
 <br>
 <a href="https://www.w3.org/">W3C</a>
