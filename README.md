@@ -100,6 +100,8 @@ Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
 <a href="https://www.skeleton.dev/">skeleton.dev/</a>
 <br>
+<a href="https://skeletonreact.com/">Skeleton React Loader/</a>
+<br>
 <a href="https://chakra-ui.com/">chakra-ui.com/</a>
 <br>
 <a href="https://flowbite.com/">flowbite.com/</a>
