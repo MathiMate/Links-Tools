@@ -20,6 +20,8 @@ Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
 <a href="https://www.interviewbit.com/angular-cheat-sheet/#angular-lifecycle-hooks">Angular CheetSheet</a>
 <br>
+<a href="https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAcwE4FN1QBQAd2oDOCAXIgN6JgCGAtumYVKjGMgNyLXINUi0AjAogC+ASgoAoRIgD0smYqXLlAPXUbNW7TtXTEGKCFRIARAAl0AGytxEpxAGpE+IggB0Neu0kigA">Typescript Playground</a>
+<br>
 <a href="https://refactoring.guru/es/design-patterns">Gurú Desing Patterns</a>
 <br>
 <a href="https://www.youtube.com/watch?v=HDFNjDKKO6A">Testing en Cypress</a>
