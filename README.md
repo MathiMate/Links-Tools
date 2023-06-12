@@ -36,6 +36,8 @@ Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
 <a href="https://maketext.io/">maketext.io/</a>
 <br>
+<a href="https://www.pixeltrue.com">Pixeltrue/</a>
+<br>
 <a href="https://jakearchibald.github.io/svgomg/">jakearchibald.github.io/svgomg/</a>
 <br>
 <a href="https://rauno.me/craft">Rauno Desing</a>
