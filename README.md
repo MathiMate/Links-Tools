@@ -90,6 +90,10 @@ Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
 <a href="https://risingstars.js.org/2022/en">risingstars.js.org/2022/en</a>
 <br>
+<a href="https://mycolor.space/?hex=%23261C8B&sub=1">Pallet Colo Generator</a>
+<br>
+<a href="https://color.adobe.com/es/create/color-wheel">Pallet Colo Generator 2</a>
+<br>
 <a href="https://auto-animate.formkit.com/">auto-animate.formkit.com</a>
 <br>
 <a href="https://www.youtube.com/watch?v=P7t13SGytRk&t=22s">Netflix Landing Page Clone JS</a>
