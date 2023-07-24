@@ -116,6 +116,8 @@ Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
 <a href="https://www.toools.design/">toools.design</a>
 <br>
+<a href="https://webcode.tools/generators/css/">Toools Generator</a>
+<br>
 <a href="https://sonner.emilkowal.ski/">sonner.emilkowal.ski</a>
 <br>
 <a href="https://www.cattocss.com/">cattocss.com</a>
