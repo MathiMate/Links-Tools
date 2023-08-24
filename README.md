@@ -56,6 +56,8 @@ Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
 <a href="https://www.flaticon.es/">flaticon.es</a>
 <br>
+<a href="https://tabler-icons.io/">Tabler Icons</a>
+<br>
 <a href="https://www.systemuicons.com/">systemuicons.com</a>
 <br>
 <a href="https://codesignal.com/">Codesignal</a>
