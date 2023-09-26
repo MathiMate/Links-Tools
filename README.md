@@ -44,6 +44,8 @@ Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA
 <br>
 <a href="https://rauno.me/craft">Rauno Desing</a>
 <br>
+<a href="https://www.patterns.dev/posts">Desing Patterns</a>
+<br>
 <a href="https://dribbble.com/">Dribbble</a>
 <br>
 <a href="https://threejs.org/">threejs.org</a>
