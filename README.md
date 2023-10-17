@@ -1,6 +1,6 @@
 <!-- TODO: Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA -->
 
-<!-- ICONS -->
+ICONS -->
 <a href="https://boxicons.com/?query=a">boxicons.com/?query=a</a>
 <br>
 <a href="https://svgl.vercel.app/">SVG Vercel</a>
