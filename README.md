@@ -1,6 +1,7 @@
-<!-- TODO: Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA -->
-
+TODO: Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA -->
+<br>
 ICONS -->
+<br>
 <a href="https://boxicons.com/?query=a">boxicons.com/?query=a</a>
 <br>
 <a href="https://svgl.vercel.app/">SVG Vercel</a>
@@ -27,7 +28,8 @@ ICONS -->
 <br>
 <a href="https://www.favicon.cc/">favicon.cc</a>
 <br>
-<!-- COLORS -->
+COLORS -->
+<br>
 <a href="https://mycolor.space/">mycolor.space</a>
 <br>
 <a href="https://mycolor.space/?hex=%23261C8B&sub=1">Pallet Colo Generator</a>
@@ -48,15 +50,18 @@ ICONS -->
 <br>
 <a href="https://www.colorzilla.com/gradient-editor/">colorzilla.com/gradient-editor</a>
 <br>
-<!-- TESTING -->
+TESTING -->
+<br>
 <a href="https://www.youtube.com/watch?v=HDFNjDKKO6A">Testing en Cypress</a>
 <br>
-<!-- FRONT-END -->
+FRONT-END -->
+<br>
 <a href="https://risingstars.js.org/2022/en">Rising Stars</a>
 <br>
 <a  href="https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/">Front-end Frameworks</a>
 <br>
-<!-- TEORICOS -->
+TEORICOS -->
+<br>
 <a href="https://www.w3.org/">W3C</a>
 <br>
 <a href="https://beta.w3.org/">W3C New Beta</a>
@@ -69,10 +74,12 @@ ICONS -->
 <br>
 <a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E">Materialize CSS - Tutorial Español</a>
 <br>
-<!-- ES-LINT -->
+ES-LINT -->
+<br>
 <a href="https://ls-lint.org/">LS Lint</a>
 <br>
-<!-- PLAYGROUNDS -->
+PLAYGROUNDS -->
+<br>
 <a href="https://codi.link/%7C%7C">Codi Link</a>
 <br>
 <a href="https://stackblitz.com/">stackblitz</a>
@@ -81,7 +88,8 @@ ICONS -->
 <br>
 <a href="https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAcwE4FN1QBQAd2oDOCAXIgN6JgCGAtumYVKjGMgNyLXINUi0AjAogC+ASgoAoRIgD0smYqXLlAPXUbNW7TtXTEGKCFRIARAAl0AGytxEpxAGpE+IggB0Neu0kigA">Typescript Playground</a>
 <br>
-<!-- DESING -->
+DESING -->
+<br>
 <a href="https://rauno.me/craft">Rauno Desing</a>
 <br>
 <a href="https://www.pixeltrue.com">Pixeltrue</a>
@@ -106,15 +114,18 @@ ICONS -->
 <br>
 <a href="https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules">UI Design Rules</a>
 <br>
-<!-- JSON -->
+JSON -->
+<br>
 <a href="https://jsoncrack.com/">JSON Crack</a>
 <br>
-<!-- LIBRERÍAS -->
+LIBRERÍAS -->
+<br>
 <a href="https://threejs.org/">Threejs.org</a>
 <br>
 <a href="https://www.skeleton.dev/">Skeleton.dev</a>
 <br>
-<!-- CSS -->
+CSS -->
+<br>
 <a href="https://www.3dtransformer.com/">3d Transformer</a>
 <br>
 <a href="https://easings.net/">Easings.net</a>
@@ -147,21 +158,25 @@ ICONS -->
 <br>
 <a href="https://flexboxfroggy.com/#es">Flexbox Froggy.com/#es</a>
 <br>
-<!-- ANGULAR -->
+ANGULAR -->
+<br>
 <a href="https://www.youtube.com/watch?v=5vOj1yDzJwY&list=PL42UNLc8e48TK24-hBKfDMbZjQB8xFrOA&index=40&t=2271s">Angular
   entrevisa Gentelman</a>
 <br>
 <a href="https://www.interviewbit.com/angular-cheat-sheet/#angular-lifecycle-hooks">Angular CheetSheet</a>
 <br>
-<!-- PROYECTOS -->
+PROYECTOS -->
+<br>
 <a href="https://www.youtube.com/watch?v=P7t13SGytRk&t=22s">Netflix Landing Page Clone JS</a>
 <br>
 <a href="https://www.youtube.com/watch?v=ArTVfdHOB-M">Magic Navigation Menu Indicator</a>
 <br>
-<!-- HTML -->
+HTML -->
+<br>
 <a href="https://htmlcheatsheet.com/js/">HTML CheatSheet.com/js</a>
 <br>
-<!-- REACT -->
+REACT -->
+<br>
 <a href="https://react-svgr.com/">React SVGR</a>
 <br>
 <a href="https://www.reactjs.wiki/">React JS Wiki</a>
@@ -184,12 +199,14 @@ ICONS -->
 <br>
 <a href="https://github.com/midudev/aprendiendo-react">Midudev Aprendiendo React</a>
 <br>
-<!-- FONTS -->
+FONTS -->
+<br>
 <a href="https://roughnotation.com/">Rough Notation</a>
 <br>
 <a href="https://www.fontspace.com/">FONT SPACE</a>
 <br>
-<!-- IMÁGENES -->
+IMÁGENES -->
+<br>
 <a href="https://imagecompressor.com/">Image Compressor</a>
 <br>
 <a href="https://tinypng.com/">Tiny PNG</a>
@@ -198,15 +215,18 @@ ICONS -->
 <br>
 <a href="https://www.img2go.com/">IMG 2 GO</a>
 <br>
-<!-- CODE -->
+CODE -->
+<br>
 <a href="https://codesignal.com/">Codesignal</a>
 <br>
 <a href="https://leetcode.com/problemset/all/">Leetcode</a>
 <br>
-<!-- BASE DE DATOS -->
+BASE DE DATOS -->
+<br>
 <a href="https://supabase.com/">supabase</a>
 <br>
-<!-- TOOLS -->
+TOOLS -->
+<br>
 <a href="https://auto-animate.formkit.com/">Formkit Add Motion</a>
 <br>
 <a href="https://flowbite.com/">Flowbite</a>
@@ -229,7 +249,8 @@ ICONS -->
 <br>
 <a href="https://component-party.dev/#update-state">Component Party.dev</a>
 <br>
-<!-- OTROS -->
+OTROS -->
+<br>
 <a href="https://zeplin.io/">zeplin.io</a>
 <br>
 <a href="https://www.npmjs.com/package/ora">ORA Elegant Terminal Spinner</a>
