@@ -74,9 +74,11 @@ TEORICOS -->
 <br>
 <a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E">Materialize CSS - Tutorial Español</a>
 <br>
-ES-LINT -->
+RULES -->
 <br>
 <a href="https://ls-lint.org/">LS Lint</a>
+<br>
+<a href="https://zod.dev/">ZOD Schema Validation</a>
 <br>
 PLAYGROUNDS -->
 <br>
