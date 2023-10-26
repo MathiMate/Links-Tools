@@ -2,7 +2,10 @@ TODO: Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA -->
 <br>
 ICONS -->
 <br>
-<a href="https://boxicons.com/?query=a">boxicons.com/?query=a</a>
+<a href="https://yesicon.app/?lang=es">YESicons.com</a>
+<br>
+<br>
+<a href="https://boxicons.com/?query=a">Boxicons.com</a>
 <br>
 <a href="https://svgl.vercel.app/">SVG Vercel</a>
 <br>
