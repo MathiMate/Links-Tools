@@ -62,6 +62,8 @@ FRONT-END -->
 <br>
 <a href="https://risingstars.js.org/2022/en">Rising Stars</a>
 <br>
+<a href="https://regexr.com/">Regex</a>
+<br>
 <a  href="https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/">Front-end Frameworks</a>
 <br>
 TEORICOS -->
