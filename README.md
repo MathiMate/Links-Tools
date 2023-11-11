@@ -233,6 +233,10 @@ BASE DE DATOS -->
 <br>
 <a href="https://supabase.com/">supabase</a>
 <br>
+APIs -->
+<br>
+<a href="https://designer.mocky.io/">Designer Mocky</a>
+<br>
 TOOLS -->
 <br>
 <a href="https://auto-animate.formkit.com/">Formkit Add Motion</a>
