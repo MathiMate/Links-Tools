@@ -66,13 +66,15 @@ FRONT-END -->
 <br>
 <a  href="https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/">Front-end Frameworks</a>
 <br>
+<a  href="https://million.dev/docs/install">Make React 70% faster ✅</a>
+<br>
 TEORICOS -->
 <br>
 <a href="https://www.w3.org/">W3C</a>
 <br>
 <a href="https://beta.w3.org/">W3C New Beta</a>
 <br>
-<a href="https://roadmap.sh/">Roadmap.sh</a>
+<a href="https://roadmap.sh/">Roadmap.sh ✅</a>
 <br>
 <a href="https://codepen.io/trending">Codepen Trending</a>
 <br>
@@ -80,11 +82,14 @@ TEORICOS -->
 <br>
 <a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4J2Lbx1_qp7Yzo7wvjYiQ4E">Materialize CSS - Tutorial Español</a>
 <br>
-RULES -->
+RULES / VALIDATORS -->
 <br>
 <a href="https://ls-lint.org/">LS Lint</a>
 <br>
 <a href="https://zod.dev/">ZOD Schema Validation</a>
+<br>
+<br>
+<a href="https://valibot.dev/">Valibot ✅</a>
 <br>
 PLAYGROUNDS -->
 <br>
