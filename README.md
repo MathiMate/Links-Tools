@@ -66,7 +66,7 @@ FRONT-END -->
 <br>
 <a  href="https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/">Front-end Frameworks</a>
 <br>
-<a  href="https://million.dev/docs/install">Make React 70% faster </a>✅
+<a  href="https://million.dev/docs/install">Make React 70% faster</a> ✅
 <br>
 TEORICOS -->
 <br>
@@ -74,10 +74,10 @@ TEORICOS -->
 <br>
 <a href="https://beta.w3.org/">W3C New Beta</a>
 <br>
-<a href="https://roadmap.sh/">Roadmap.sh </a>✅
+<a href="https://roadmap.sh/">Roadmap.sh</a> ✅
 <br>
 <br>
-<a href="https://fullstackopen.com/es/">FullstackOpen </a>✅
+<a href="https://fullstackopen.com/es/">FullstackOpen</a> ✅
 <br>
 <a href="https://codepen.io/trending">Codepen Trending</a>
 <br>
@@ -91,7 +91,7 @@ RULES / VALIDATORS -->
 <br>
 <a href="https://zod.dev/">ZOD Schema Validation</a>
 <br>
-<a href="https://valibot.dev/">Valibot </a>✅
+<a href="https://valibot.dev/">Valibot</a> ✅
 <br>
 PLAYGROUNDS -->
 <br>
