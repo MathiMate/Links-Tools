@@ -115,6 +115,8 @@ DESING -->
 <br>
 <a href="https://www.patterns.dev/posts">Desing Patterns</a>
 <br>
+<a href="https://uiball.com/ldrs/">UI BALL Loaders</a>
+<br>
 <a href="https://www.webdesign-inspiration.com/">Webdesign Inspiration</a>
 <br>
 <a href="https://www.wallpaperbetter.com/es">Wall Paper Better| No Copyrights</a>
