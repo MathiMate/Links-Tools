@@ -205,7 +205,7 @@ REACT -->
 <br>
 <a href="https://chakra-ui.com/">Chakra UI</a>
 <br>
-<a href="https://sonner.emilkowal.ski/">Sonner</a>
+<a href="https://sonner.emilkowal.ski/">Sonner Notifications</a> ✅
 <br>
 <a href="https://sui-components.vercel.app/workbench/atom/button/demo">SUI Components</a>
 <br>
