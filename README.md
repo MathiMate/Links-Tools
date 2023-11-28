@@ -142,6 +142,12 @@ LIBRERÍAS -->
 <br>
 <a href="https://www.skeleton.dev/">Skeleton.dev</a>
 <br>
+<a href="https://revealjs.com/">Reveal JS Scroll</a>
+<br>
+<a href="https://www.buttons.cool/">Buttons Cool</a>
+<br>
+<a href="https://github.com/jj811208/watching-you">Watching You</a>
+<br>
 CSS -->
 <br>
 <a href="https://www.3dtransformer.com/">3d Transformer</a>
@@ -257,6 +263,10 @@ TOOLS -->
 <br>
 <a href="https://caniuse.com/">Can I Use</a>
 <br>
+<a href="https://whatunit.com/">What Unit</a>
+<br>
+<a href="https://medium-zoom.francoischalifour.com/">Medium Zoom</a>
+<br>
 <a href="https://caninclude.glitch.me/">Can Include</a>
 <br>
 <a href="https://jakearchibald.github.io/svgomg/">SVG Optimizer</a>
@@ -283,3 +293,10 @@ OTROS -->
 <br>
 <a href="https://www.awwwards.com/">awwwards</a>
 <br>
+MOBILE -->
+<br>
+ANDROID -->
+<br>
+<a href="https://www.minisim.app/">Minisim Mobile Emulator</a>
+<br>
+IOs -->
