@@ -142,6 +142,8 @@ LIBRERÍAS -->
 <br>
 <a href="https://www.skeleton.dev/">Skeleton.dev</a>
 <br>
+<a href="https://dropzone-ui.vercel.app/">Dropzone UI</a>
+<br>
 <a href="https://revealjs.com/">Reveal JS Scroll</a>
 <br>
 <a href="https://www.buttons.cool/">Buttons Cool</a>
