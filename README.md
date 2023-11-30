@@ -1,4 +1,17 @@
 TODO: Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA -->
+
+<br>
+APIs -->
+<br>
+<a href="https://publicapis.dev/">Public APis</a>
+<br>
+<a href="https://github.com/PlaceholderAPI/PlaceholderAPI">PlaceholderAPI</a>
+<br>
+<a href="https://pokeapi.co/">Poke Api</a>
+<br>
+<a href="https://openweathermap.org/api">Weather API</a>
+<br>
+<a href="https://open-meteo.com/en/docs">Weather Meteor API</a>
 <br>
 ICONS -->
 <br>
