@@ -89,6 +89,8 @@ TEORICOS -->
 <br>
 <a href="https://roadmap.sh/">Roadmap.sh</a> ✅
 <br>
+<a href="https://university.redis.com/">University Redis</a> ✅
+<br>
 <a href="https://fullstackopen.com/es/">FullstackOpen</a> ✅
 <br>
 <a href="https://codepen.io/trending">Codepen Trending</a>
