@@ -299,4 +299,9 @@ ANDROID -->
 <br>
 <a href="https://www.minisim.app/">Minisim Mobile Emulator</a>
 <br>
-IOs -->
+IOS -->
+<br>
+AI -->
+<br>
+<a href="https://huggingface.co/">Huggingface</a>
+<br>
