@@ -173,6 +173,8 @@ CSS -->
 <br>
 <a href="https://9elements.github.io/fancy-border-radius/#76.100.0.24--.">Fancy Border-radius</a>
 <br>
+<a href="https://angrytools.com/wave-generator/">Wave Generator</a>
+<br>
 <a href="https://www.blobmaker.app/">Blobmaker CSS</a>
 <br>
 <a href="https://www.cattocss.com/">Catto CSS</a>
