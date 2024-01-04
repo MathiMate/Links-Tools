@@ -278,9 +278,9 @@ TOOLS -->
 <br>
 <a href="https://auto-animate.formkit.com/">Formkit Add Motion</a>
 <br>
-<a href="https://github.com/paulirish/lite-youtube-embed">Lite Youtube Embed Paul</a> //iFrame replacement
+<a href="https://github.com/paulirish/lite-youtube-embed">Lite Youtube Embed Paul</a> iFrame replacement
 <br>
-<a href="https://github.com/justinribeiro/lite-youtube">Lite Youtube Embed Justin</a> //iFrame replacement
+<a href="https://github.com/justinribeiro/lite-youtube">Lite Youtube Embed Justin</a> iFrame replacement
 <br>
 <a href="https://flowbite.com/">Flowbite</a>
 <br>
