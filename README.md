@@ -264,6 +264,8 @@ IMÁGENES -->
 <br>
 <a href="https://squoosh.app/">Squoosh Reduce File Size</a>
 <br>
+<a href="https://ezgif.com/gif-to-webp">Gif to Webp</a>
+<br>
 <a href="https://www.img2go.com/">IMG 2 GO</a>
 <br>
 CODE -->
