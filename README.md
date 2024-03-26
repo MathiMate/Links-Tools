@@ -153,6 +153,8 @@ DESING -->
 <br>
 JSON -->
 <br>
+<a href="https://www.jsondataai.com/">JSON Data AI</a>
+<br>
 <a href="https://jsoncrack.com/">JSON Crack</a>
 <br>
 LIBRERÍAS -->
@@ -262,6 +264,10 @@ IMÁGENES -->
 <br>
 <a href="https://tinypng.com/">Tiny PNG</a>
 <br>
+<a href="https://es.vectorizer.ai/">Vectorizer AI</a>
+<br>
+<a href="https://www.vectorizer.io/">Vectorizer IO/</a>
+<br>
 <a href="https://squoosh.app/">Squoosh Reduce File Size</a>
 <br>
 <a href="https://ezgif.com/gif-to-webp">Gif to Webp</a>
@@ -283,6 +289,8 @@ APIs -->
 <a href="https://designer.mocky.io/">Designer Mocky</a>
 <br>
 TOOLS -->
+<br>
+<a href="https://omatsuri.app/">Omatsuri App</a> ✅
 <br>
 <a href="https://auto-animate.formkit.com/">Formkit Add Motion</a>
 <br>
