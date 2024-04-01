@@ -169,6 +169,8 @@ LIBRERÍAS -->
 <br>
 <a href="https://www.buttons.cool/">Buttons Cool</a>
 <br>
+<a href="https://ui.shadcn.com/docs/components/accordion">Shadcn Components</a> ✅
+<br>
 <a href="https://tempo.formkit.com/">Tempo JS</a>
 <br>
 <a href="https://github.com/jj811208/watching-you">Watching You</a>
