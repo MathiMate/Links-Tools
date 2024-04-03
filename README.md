@@ -211,12 +211,13 @@ CSS -->
 <br>
 <a href="https://yaroslavweb.github.io/Neon-Generator/">Neon-Generator</a>
 <br>
-<a href="https://flexboxfroggy.com/#es">Flexbox Froggy.com/#es</a>
+<a href="https://flexboxfroggy.com/#es">Flexbox Froggy</a>
+<br>
+<a href="https://codingfantasy.com/">Coding Fantasy</a>
 <br>
 ANGULAR -->
 <br>
-<a href="https://www.youtube.com/watch?v=5vOj1yDzJwY&list=PL42UNLc8e48TK24-hBKfDMbZjQB8xFrOA&index=40&t=2271s">Angular
-  entrevisa Gentelman</a>
+<a href="https://www.youtube.com/watch?v=5vOj1yDzJwY&list=PL42UNLc8e48TK24-hBKfDMbZjQB8xFrOA&index=40&t=2271s">Angular entrevisa Gentelman</a>
 <br>
 <a href="https://www.interviewbit.com/angular-cheat-sheet/#angular-lifecycle-hooks">Angular CheetSheet</a>
 <br>
