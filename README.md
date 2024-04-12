@@ -159,8 +159,6 @@ JSON -->
 <br>
 LIBRERÍAS -->
 <br>
-<a href="https://tempo.formkit.com/">Tempo.formkit</a> ✅
-<br>
 <a href="https://threejs.org/">Threejs.org</a>
 <br>
 <a href="https://www.skeleton.dev/">Skeleton.dev</a>
@@ -173,7 +171,7 @@ LIBRERÍAS -->
 <br>
 <a href="https://ui.shadcn.com/docs/components/accordion">Shadcn Components</a> ✅
 <br>
-<a href="https://tempo.formkit.com/">Tempo JS</a>
+<a href="https://tempo.formkit.com/">Tempo JS</a> ✅
 <br>
 <a href="https://github.com/jj811208/watching-you">Watching You</a>
 <br>
