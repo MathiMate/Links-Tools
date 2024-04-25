@@ -345,6 +345,8 @@ ANDROID -->
 <br>
 IOS -->
 <br>
+<a href="https://cs193p.sites.stanford.edu/2023">Stanford Swift UI</a>
+<br>
 AI -->
 <br>
 <a href="https://huggingface.co/">Huggingface</a>
