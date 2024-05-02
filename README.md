@@ -5,7 +5,8 @@ Learn Everything -->
 <br>
 <a href="https://github.com/codecrafters-io/build-your-own-x">Build Your Own X</a>
 <br>
-[aprendepython.pdf](https://github.com/MathiMate/Links-Tools/files/15191469/aprendepython.pdf)
+<a href="https://aprendepython.es/">Aprende Python</a>
+Aprende Python PDF https://github.com/MathiMate/Links-Tools/files/15191469/aprendepython.pdf
 <br>
 APIs -->
 <br>
