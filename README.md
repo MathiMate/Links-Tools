@@ -83,6 +83,10 @@ FRONT-END -->
 <br>
 <a href="https://risingstars.js.org/2022/en">Rising Stars</a>
 <br>
+<a href="https://typehero.dev/explore">TypeHero</a>
+<br>
+<a href="https://exercism.org/">Exercism Code Challenges</a>
+<br>
 <a href="https://regexr.com/">Regex</a>
 <br>
 <a  href="https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/">Front-end Frameworks</a>
@@ -119,7 +123,7 @@ PLAYGROUNDS -->
 <br>
 <a href="https://codi.link/%7C%7C">Codi Link</a>
 <br>
-<a href="https://stackblitz.com/">stackblitz</a>
+<a href="https://stackblitz.com/">Stackblitz</a>
 <br>
 <a href="https://sqlbolt.com/lesson/select_queries_introduction">SQL Compailer</a>
 <br>
@@ -130,6 +134,8 @@ DESING -->
 <a href="https://rauno.me/craft">Rauno Desing</a>
 <br>
 <a href="https://www.pixeltrue.com">Pixeltrue</a>
+<br>
+<a href="https://www.dark.design/">Dark Desing</a>
 <br>
 <a href="https://makereal.tldraw.com/">Makereal Tldraw</a>
 <br>
