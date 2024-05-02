@@ -25,6 +25,10 @@ ICONS -->
 <br>
 <a href="https://svgl.vercel.app/">SVG Vercel</a>
 <br>
+<a href="https://www.svgviewer.dev/">SVG Viewer</a>
+<br>
+<a href="https://svgl.app/">SVGL</a>
+<br>
 <a href="https://www.flaticon.es/iconos-gratis/fosforo">flaticon.es/iconos-gratis/fosforo</a>
 <br>
 <a href="https://www.flaticon.es/">flaticon.es</a>
@@ -297,6 +301,8 @@ TOOLS -->
 <br>
 <a href="https://omatsuri.app/">Omatsuri App</a> ✅
 <br>
+<a href="https://www.lemonsqueezy.com/wedges">Lemon Squeezy Components</a> ✅
+<br>
 <a href="https://auto-animate.formkit.com/">Formkit Add Motion</a>
 <br>
 <a href="https://github.com/paulirish/lite-youtube-embed">Lite Youtube Embed Paul</a> iFrame replacement
@@ -336,6 +342,10 @@ OTROS -->
 <a href="https://dribbble.com/">Dribbble</a>
 <br>
 <a href="https://www.awwwards.com/">awwwards</a>
+<br>
+DATA BASE -->
+<br>
+<a href="https://turso.tech/">Turso Hosting Data Base</a>
 <br>
 MOBILE -->
 <br>
