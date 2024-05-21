@@ -251,6 +251,8 @@ REACT -->
 <br>
 <a href="https://www.reactjs.wiki/">React JS Wiki</a>
 <br>
+<a href="https://visgl.github.io/react-google-maps/">React Google Maps</a>
+<br>
 <a href="https://novajs.co/react-hooks">Nova JS | React Hooks</a>
 <br>
 <a href="https://mantine.dev/">Mantine React Components</a>
