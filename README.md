@@ -1,4 +1,5 @@
 TODO: Patrones de arquitectura/diseño de Javascript Vanilla: DDD, MDA, SOA -->
+<br>
 grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr)
 <br>
 Learn Everything -->
