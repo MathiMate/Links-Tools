@@ -88,6 +88,12 @@ FRONT-END -->
 <br>
 <a href="https://risingstars.js.org/2022/en">Rising Stars</a>
 <br>
+npm i emoji-picker-element@1.1.0
+<br>
+npm i @girs/cally-1.0@1.0.0-3.1.0
+<br>
+<a href="https://www.tradingview.com/lightweight-charts/">Lightweight Charts</a> *GRÁFICOS ✅*
+<br>
 <a href="https://typehero.dev/explore">TypeHero</a>
 <br>
 <a href="https://exercism.org/">Exercism Code Challenges</a>
