@@ -8,6 +8,8 @@ Learn Everything -->
 <br>
 <a href="https://aprendepython.es/">Aprende Python</a>
 <br>
+<a href="https://www.amigoscode.com/">AmigosCode</a>
+<br>
 Aprende Python PDF https://github.com/MathiMate/Links-Tools/files/15191469/aprendepython.pdf
 <br>
 APIs -->
