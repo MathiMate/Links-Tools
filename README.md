@@ -364,6 +364,10 @@ OTROS -->
 <br>
 <a href="https://www.awwwards.com/">awwwards</a>
 <br>
+SEO -->
+<br>
+<a href="https://search.google.com/search-console/about">Google Search Console</a>
+<br>
 DATA BASE -->
 <br>
 <a href="https://turso.tech/">Turso Hosting Data Base</a>
