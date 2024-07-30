@@ -36,6 +36,8 @@ ICONS -->
 <br>
 <a href="https://svgl.app/">SVGL</a>
 <br>
+<a href="https://jakearchibald.github.io/svgomg/">SVGOMG</a>
+<br>
 <a href="https://www.flaticon.es/iconos-gratis/fosforo">flaticon.es/iconos-gratis/fosforo</a>
 <br>
 <a href="https://www.flaticon.es/">flaticon.es</a>
@@ -78,9 +80,9 @@ COLORS -->
 <br>
 <a href="https://www.december.com/html/spec/color3.html">December Color</a>
 <br>
-<a href="https://www.colorzilla.com/">colorzilla</a>
+<a href="https://www.colorzilla.com/">Colorzilla</a>
 <br>
-<a href="https://www.colorzilla.com/gradient-editor/">colorzilla.com/gradient-editor</a>
+<a href="https://www.colorzilla.com/gradient-editor/">Colorzilla.com/gradient-editor</a>
 <br>
 TESTING -->
 <br>
