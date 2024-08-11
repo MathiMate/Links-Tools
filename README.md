@@ -38,6 +38,8 @@ ICONS -->
 <br>
 <a href="https://jakearchibald.github.io/svgomg/">SVGOMG</a>
 <br>
+<a href="https://www.fffuel.co/sssvg//">SVG Generators</a>
+<br>
 <a href="https://www.flaticon.es/iconos-gratis/fosforo">flaticon.es/iconos-gratis/fosforo</a>
 <br>
 <a href="https://www.flaticon.es/">flaticon.es</a>
@@ -92,6 +94,8 @@ FRONT-END -->
 <br>
 <a href="https://risingstars.js.org/2022/en">Rising Stars</a>
 <br>
+<a href="https://www.fffuel.co/">Muchas herramientas</a>
+<br>
 npm i emoji-picker-element@1.1.0
 <br>
 npm i @girs/cally-1.0@1.0.0-3.1.0
@@ -115,6 +119,8 @@ TEORICOS -->
 <a href="https://beta.w3.org/">W3C New Beta</a>
 <br>
 <a href="https://roadmap.sh/">Roadmap.sh</a> ✅
+<br>
+<a href="[https://roadmap.sh/](https://github.com/goldbergyoni/nodebestpractices/blob/spanish-translation/README.spanish.md)">Best Node.js Practices</a> ✅
 <br>
 <a href="https://university.redis.com/">University Redis</a> ✅
 <br>
@@ -190,9 +196,15 @@ LIBRERÍAS -->
 <br>
 <a href="https://dropzone-ui.vercel.app/">Dropzone UI</a>
 <br>
+<a href="https://www.npmjs.com/package/filepond">FILEPOND</a>
+<br>
 <a href="https://revealjs.com/">Reveal JS Scroll</a>
 <br>
+<a href="https://belljs.vercel.app/">Bell JS</a>
+<br>
 <a href="https://www.buttons.cool/">Buttons Cool</a>
+<br>
+<a href="https://authjs.dev/">Auth JS</a> ✅
 <br>
 <a href="https://ui.shadcn.com/docs/components/accordion">Shadcn Components</a> ✅
 <br>
@@ -280,6 +292,8 @@ REACT -->
 <br>
 <a href="https://swr.vercel.app/es-ES">SWR Vercel | Invalidación Caché HTTP</a>
 <br>
+<a href="https://www.remotion.dev/">Remotion Video</a>
+<br>
 <a href="https://github.com/midudev/preguntas-entrevista-react">Midudev Entrevista React</a>
 <br>
 <a href="https://github.com/midudev/aprendiendo-react">Midudev Aprendiendo React</a>
@@ -316,6 +330,8 @@ BASE DE DATOS -->
 <br>
 <a href="https://supabase.com/">supabase</a>
 <br>
+<a href="https://turso.tech/">Turso Hosting Data Base</a>
+<br>
 APIs -->
 <br>
 <a href="https://designer.mocky.io/">Designer Mocky</a>
@@ -337,6 +353,8 @@ TOOLS -->
 <a href="https://caniuse.com/">Can I Use</a>
 <br>
 <a href="https://whatunit.com/">What Unit</a>
+<br>
+<a href="https://ip.guide/">IP GUIDE</a>
 <br>
 <a href="https://medium-zoom.francoischalifour.com/">Medium Zoom</a>
 <br>
@@ -370,9 +388,9 @@ SEO -->
 <br>
 <a href="https://search.google.com/search-console/about">Google Search Console</a>
 <br>
-DATA BASE -->
+OTROS -->
 <br>
-<a href="https://turso.tech/">Turso Hosting Data Base</a>
+<a href="https://mega.nz/folder/3RZRlQoS#6hqbnoTPwz9dzAOO27VjIw">Recursos Varios</a>
 <br>
 MOBILE -->
 <br>
