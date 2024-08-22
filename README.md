@@ -282,6 +282,8 @@ REACT -->
 <br>
 <a href="https://mui.com/">MUI</a>
 <br>
+<a href="https://animata.design/">Animata UI</a>
+<br>
 <a href="https://chakra-ui.com/">Chakra UI</a>
 <br>
 <a href="https://sonner.emilkowal.ski/">Sonner Notifications</a> ✅
