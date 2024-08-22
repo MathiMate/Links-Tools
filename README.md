@@ -334,6 +334,10 @@ BASE DE DATOS -->
 <br>
 <a href="https://postgres.new/">Postgres.new</a>
 <br>
+<a href="https://planetscale.com/learn">Planetscale.com/learn - Curso</a>
+<br>
+<a href="https://highperformancesqlite.com/">hHighperformancesqlite - Curso pago</a>
+<br>
 APIs -->
 <br>
 <a href="https://designer.mocky.io/">Designer Mocky</a>
