@@ -100,6 +100,8 @@ npm i emoji-picker-element@1.1.0
 <br>
 npm i @girs/cally-1.0@1.0.0-3.1.0
 <br>
+<a href="https://wicky.nillia.ms/cally/">Cally Small Calendary</a> *CALENDARIO ✅*
+<br>
 <a href="https://www.tradingview.com/lightweight-charts/">Lightweight Charts</a> *GRÁFICOS ✅*
 <br>
 <a href="https://typehero.dev/explore">TypeHero</a>
@@ -166,6 +168,10 @@ DESING -->
 <br>
 <a href="https://www.patterns.dev/posts">Desing Patterns</a>
 <br>
+<a href="tremor․so">Dashboards UI</a>
+<br>
+<a href="https://undraw.co/illustrations">People ilustrations</a>
+<br>
 <a href="https://uiball.com/ldrs/">UI BALL Loaders</a>
 <br>
 <a href="https://www.webdesign-inspiration.com/">Webdesign Inspiration</a>
@@ -206,7 +212,11 @@ LIBRERÍAS -->
 <br>
 <a href="https://www.buttons.cool/">Buttons Cool</a>
 <br>
+<a href="https://react-leaflet.js.org/">React Maps</a>
+<br>
 <a href="https://authjs.dev/">Auth JS</a> ✅
+<br>
+<a href="https://better-auth.com/">Better Auth</a> ✅
 <br>
 <a href="https://ui.shadcn.com/docs/components/accordion">Shadcn Components</a> ✅
 <br>
@@ -227,6 +237,8 @@ CSS -->
 <a href="https://www.blobmaker.app/">Blobmaker CSS</a>
 <br>
 <a href="https://www.cattocss.com/">Catto CSS</a>
+<br>
+<a href="https://www.shapedivider.app/">Shapedivider</a>
 <br>
 <a href="https://scrollbar.app/">Scrollbar App</a>
 <br>
@@ -338,6 +350,10 @@ BASE DE DATOS -->
 <br>
 <a href="https://turso.tech/">Turso Hosting Data Base</a>
 <br>
+<a href="https://datalemur.com/">DataLemur Learn Database</a>
+<br>
+<a href="https://www.linkedin.com/posts/vanessamarlenemsanchez_recursossql-activity-7287912088910319616-KUdJ?utm_source=share&utm_medium=member_desktop">Recursos de Base de Datos</a>
+<br>
 <a href="https://postgres.new/">Postgres.new</a>
 <br>
 <a href="https://planetscale.com/learn">Planetscale.com/learn - Curso</a>
@@ -391,6 +407,8 @@ OTROS -->
 <a href="https://zeplin.io/">zeplin.io</a>
 <br>
 <a href="https://www.npmjs.com/package/ora">ORA Elegant Terminal Spinner</a>
+<br>
+<a href="https://ipquery.io/">IPQuery</a>
 <br>
 <a href="https://dribbble.com/">Dribbble</a>
 <br>
