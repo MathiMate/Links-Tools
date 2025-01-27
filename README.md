@@ -94,6 +94,8 @@ FRONT-END -->
 <br>
 <a href="https://risingstars.js.org/2022/en">Rising Stars</a>
 <br>
+<a href="https://www.reactbits.dev/backgrounds/waves">Reactbits animations</a>
+<br>
 <a href="https://www.fffuel.co/">Muchas herramientas</a>
 <br>
 npm i emoji-picker-element@1.1.0
