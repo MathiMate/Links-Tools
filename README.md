@@ -210,6 +210,10 @@ LIBRERÍAS -->
 <br>
 <a href="https://revealjs.com/">Reveal JS Scroll</a>
 <br>
+<a href="https://swapy.tahazsh.com/">Swapy</a> ✅
+<br>
+<a href="https://cursify.vercel.app/">Cursify</a> ✅
+<br>
 <a href="https://motion-number.barvian.me/">Motion Number</a>
 <br>
 <a href="https://belljs.vercel.app/">Bell JS</a>
