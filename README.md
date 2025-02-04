@@ -254,7 +254,7 @@ CSS -->
 <br>
 <a href="https://animista.net/play/background">Effects CSS</a>
 <br>
-<a href="https://jcthepants.github.io/Retina-CSS-Sprite-Generator/"CSS Sprite</a>
+<a href="https://jcthepants.github.io/Retina-CSS-Sprite-Generator/">CSS Sprite</a>
 <br>
 <a href="https://instantsprite.com/">Instant Sprite</a>
 <br>
