@@ -218,6 +218,8 @@ LIBRERÍAS -->
 <br>
 <a href="https://belljs.vercel.app/">Bell JS</a>
 <br>
+<a href="https://pdfslick.dev/">PDFslick</a>
+<br>
 <a href="https://www.buttons.cool/">Buttons Cool</a>
 <br>
 <a href="https://react-leaflet.js.org/">React Maps</a>
