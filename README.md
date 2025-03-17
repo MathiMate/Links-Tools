@@ -316,6 +316,10 @@ REACT -->
 <br>
 <a href="https://chakra-ui.com/">Chakra UI</a>
 <br>
+<a href="https://new.email/">New Email</a>
+<br>
+<a href="https://resend.com/">ReSend Email</a>
+<br>
 <a href="https://sonner.emilkowal.ski/">Sonner Notifications</a> ✅
 <br>
 <a href="https://sui-components.vercel.app/workbench/atom/button/demo">SUI Components</a>
