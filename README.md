@@ -68,9 +68,11 @@ COLORS -->
 <br>
 <a href="https://m3.material.io/theme-builder#/custom">M3.material.io</a>
 <br>
-<a href="https://mycolor.space/?hex=%23261C8B&sub=1">Pallet Colo Generator</a>
+<a href="https://mycolor.space/?hex=%23261C8B&sub=1">Pallet Color Generator</a>
 <br>
-<a href="https://color.adobe.com/es/create/color-wheel">Pallet Colo Generator 2</a>
+<a href="https://color.adobe.com/es/create/color-wheel">Pallet Color Generator 2</a>
+<br>
+<a href="https://csshero.org/mesher/">Background Fancy Color Generator</a>
 <br>
 <a href="https://uicolors.app/create">UI Colors</a>
 <br>
