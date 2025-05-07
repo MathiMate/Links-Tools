@@ -96,6 +96,10 @@ FRONT-END -->
 <br>
 <a href="https://risingstars.js.org/2022/en">Rising Stars</a>
 <br>
+<a href="https://lenis.darkroom.engineering/">Lenis Scroll Animation</a> ✅
+<br>
+<a href="https://gsap.com/">GSAP Animation</a> ✅
+<br>
 <a href="https://www.reactbits.dev/backgrounds/waves">Reactbits animations</a>
 <br>
 <a href="https://www.fffuel.co/">Muchas herramientas</a>
